@@ -4,8 +4,8 @@ Industrial engineer and data scientist in Madrid. I build AI agents and RAG syst
 
 ## What I do
 
+- **CIO at [Perlatours](https://www.perlatours.com) since February 2025.** Perlatours is a hotel bedbank: nearly 15,000 hotels accessible through our API and around 80 million client API calls a day. I replaced the external ERP with an internal API-first ERP operated by AI agents: 400+ APIs integrated, 200 to 450 requests per second, 80% less time on operational processes, and double the volume with the same headcount.
 - **Founder of [Godi.AI](https://godi.ai):** AI agents and automation for businesses.
-- **Day job:** I lead tech at a hotel bedbank, where AI agents run an API-first ERP.
 - **Before that:** supply chain and data science at Primagaz (SHV Energy), including anomaly detection across 2M+ customers, and Lead Instructor of the Data & AI bootcamp at Ironhack (140 professionals, 4 cohorts).
 - **Training:** industrial engineering at UTT Troyes, and the Data Science Starter Program at École Polytechnique Executive Education.
 - **Languages:** Spanish, French, English.
